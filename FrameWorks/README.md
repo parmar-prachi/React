@@ -27,6 +27,14 @@ This is a **simple UI project** built using **React** and **Vite**. In this proj
 
 src/
 ├─ components/ # Reusable UI components
+
+
 ├─ pages/ # Application pages
+
+
 ├─ App.jsx # Main app component
+
+
 └─ main.jsx # Entry point
+
+
